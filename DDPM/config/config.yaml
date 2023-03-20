@@ -1,0 +1,9 @@
+img_size : 64 
+in_channel : 3
+out_channel : 3
+base_channel : 64 
+beta_start : 1e-4
+beta_end : 1e-2
+noise_steps : 1000
+time_dim : 256
+epochs : 100
